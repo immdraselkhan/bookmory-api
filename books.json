@@ -1,0 +1,114 @@
+{
+  "error": "0",
+  "total": "12",
+  "books": [
+    {
+      "title": "Html 5",
+      "author": "Mike McGrath",
+      "isbn": "9781259003905",
+      "pages": "78",
+      "price": "$4.05",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/rokimg_20151114_105402.gif",
+      "url": "https://www.rokomari.com/book/105402/html-5"
+    },
+    {
+      "title": "CSS3",
+      "author": "Mike McGrath",
+      "isbn": "9789351343059",
+      "pages": "216",
+      "price": "$12.06",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/6233c98d9a94_121196.jpg",
+      "url": "https://www.rokomari.com/book/121196/css3"
+    },
+    {
+      "title": "Programming Pearls",
+      "author": "John P. Bentley",
+      "isbn": "9788177588583",
+      "pages": "256",
+      "price": "$8.82",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/rokimg_20151107_104638.gif",
+      "url": "https://www.rokomari.com/book/104638/programming-pearls"
+    },
+    {
+      "title": "Systems Programming",
+      "author": "D M Dhamdhere",
+      "isbn": "9780071333115",
+      "pages": "538",
+      "price": "$8.1",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/e6d79994a5c4_120436.jpg",
+      "url": "https://www.rokomari.com/book/120436/systems-programming"
+    },
+    {
+      "title": "Java Programming",
+      "author": "Hari Mohan Pandey",
+      "isbn": "9788131733110",
+      "pages": "880",
+      "price": "$11.28",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/rokimg_20151004_103067.gif",
+      "url": "https://www.rokomari.com/book/103067/java-programming"
+    },
+    {
+      "title": "Linear Programming",
+      "author": "KARLOFF HOWARD",
+      "isbn": "9788184893915",
+      "pages": "141",
+      "price": "$4.41",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/7fb0d537c_149544.jpg",
+      "url": "https://www.rokomari.com/book/149544/linear-programming"
+    },
+    {
+      "title": "Computer Programming",
+      "author": "Ashok N. Kamthane",
+      "isbn": "9788131764947",
+      "pages": "672",
+      "price": "$11.05",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/d5b9e22c7_123242.jpg",
+      "url": "https://www.rokomari.com/book/123242/computer-programming"
+    },
+    {
+      "title": "Programming in C",
+      "author": "PRADIP DEY , MANAS GHOSH",
+      "isbn": "9780198065289",
+      "pages": "547",
+      "price": "$8.73",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/dc8795ab31b4_123251.jpg",
+      "url": "https://www.rokomari.com/book/123251/programming-in-c"
+    },
+    {
+      "title": "Programming with C++",
+      "author": "John R Hubbard",
+      "isbn": "9780070144811",
+      "pages": "541",
+      "price": "$11.07",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/3513055d2b34_118987.gif",
+      "url": "https://www.rokomari.com/book/118987/programming-with-c"
+    },
+    {
+      "title": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/3513055d2b34_118987.gif",
+      "author": "Larry Ullman",
+      "isbn": "9788131775264",
+      "pages": "624",
+      "price": "$14.20",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/rokimg_20151107_104758.gif",
+      "url": "https://www.rokomari.com/book/104758/modern-javascript-develop-and-design"
+    },
+    {
+      "title": "Python for Data Analysis",
+      "author": "Wes McKinney",
+      "isbn": "9789351100065",
+      "pages": "488",
+      "price": "$13.50",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/71153317c1c4_134240.jpg",
+      "url": "https://www.rokomari.com/book/134240/python-for-data-analysis"
+    },
+    {
+      "title": "PHP and MySQL",
+      "author": "Mike McGrath",
+      "isbn": "9781259029431",
+      "pages": "192",
+      "price": "$10.80",
+      "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/ef2a65f52834_119696.gif",
+      "url": "https://www.rokomari.com/book/119696/php-and-mysql"
+    }
+  ]
+}
